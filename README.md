@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://yamaclawserver.my.id"><img src="https://img.shields.io/badge/Official_Website-yamaclawserver.my.id-054e3a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" /></a>
+  <a href="https://yamaclawserver.my.id/#kontak"><img src="https://img.shields.io/badge/Workspace-Contact_Channel-0284c7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Channel" /></a>
   <a href="https://github.com/yamaiqalxr-glitch"><img src="https://img.shields.io/badge/GitHub-yamaiqalxr--glitch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/6282244339995"><img src="https://img.shields.io/badge/WhatsApp-Contact_Founder-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
@@ -74,9 +74,8 @@ Berpengalaman merancang dan memelihara sistem informasi institusi terintegrasi, 
 Terbuka untuk diskusi arsitektur perangkat lunak institusi, integrasi hardware biometrik gerbang, optimasi keandalan server cloud, serta proyek strategis lainnya:
 
 - 🌐 **Website Resmi:** [https://yamaclawserver.my.id](https://yamaclawserver.my.id)
-- 💬 **WhatsApp Resmi:** [+62 822-4433-9995](https://wa.me/6282244339995)
-- 📧 **Email:** [yamaiqalxr@gmail.com](mailto:yamaiqalxr@gmail.com)
-- 📸 **Instagram:** [@yamaiqal90](https://instagram.com/yamaiqal90)
+- 📬 **Kanal Kontak & Diskusi:** [yamaclawserver.my.id/#kontak](https://yamaclawserver.my.id/#kontak)
+- 📸 **Instagram Resmi:** [@yamaiqal90](https://instagram.com/yamaiqal90)
 - 🐙 **GitHub:** [@yamaiqalxr-glitch](https://github.com/yamaiqalxr-glitch)
 
 <p align="center">
